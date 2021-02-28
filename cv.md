@@ -17,3 +17,7 @@
 * gramophone speech
 * sociability
 * empathy  
+
+**I received my education in 2015 with a degree in international law with knowledge of foreign languages.**  
+
+*I periodically take English coursers, study on my own, read literature in English. I subscribed to different groups in social networks for learning English.*
