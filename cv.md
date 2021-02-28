@@ -10,3 +10,10 @@
  1. training of staff;
  1. organization of corporate events.  
    *Unfortunately, at the moment I haven't got an experience in the IT-sphere.*
+
+**I consider my strong qualities:**
+* responsibility
+* punctuality
+* gramophone speech
+* sociability
+* empathy  
