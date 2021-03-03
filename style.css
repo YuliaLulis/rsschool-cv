@@ -1,0 +1,86 @@
+body {
+    padding:0px; 
+    margin:0; 
+    background:#a8aaaa; 
+    font-size:14px; 
+    font-family:Arial, Sans-serif;
+}
+
+#basic {
+    width:960px; 
+    min-height:950px; 
+    margin:0 auto; 
+    padding:20px 20px 20px 20px; 
+    background: url(https://cdn.pixabay.com/photo/2017/07/19/21/27/aqua-2520427_1280.jpg);
+    }
+
+#center {
+    margin: auto;
+    width: max-content;
+}
+
+#content {
+     margin-top: 20px;
+     width: 650px;
+     text-align: center;
+}
+
+#head {
+    block-size: 260px;
+}
+
+#image {
+    float: right;
+    padding: 10px;
+}
+
+#name {
+    font: bold italic 180% serif;
+}
+
+.title {
+    padding: 20px;
+    color: rgb(68, 0, 255);
+    text-align: left;
+}
+
+.title p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+
+#phone:before { 
+    content: '\260E'; 
+} 
+
+#mail:before {
+    content: '\2709'
+}  
+
+#linkedin::before {
+    content: '\22C6'
+}
+
+#git:before {
+    content: '\2713'
+}
+
+.body {
+    text-align: left;
+    padding: 0 0 0 20px; 
+}
+
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content: "\00BB \0020";
+}
+
+#english_level {
+    font-style: italic;
+    font-weight: bold;
+}
+
